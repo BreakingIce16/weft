@@ -15,4 +15,9 @@ your mods or settings without warning.
 ## Download
 
 Get the latest build from [Releases](../../releases/latest): Windows (zip), Linux (AppImage) or Mac (dmg).
-Weft checks this page for updates on its own.
+Automatic updates are coming; until then, download the newest build here.
+
+## Third-party software
+
+Weft's builds bundle Qt 6 and PySide6 (LGPL-3.0, source at https://code.qt.io), Python (PSF License), NumPy
+(BSD-3-Clause) and other open-source libraries under their own licenses.
